@@ -1,5 +1,5 @@
 # ActivityCord
-A code that allows you to get the Playing, Listening, and Streaming Discord Statuses 24/7!
+**A code that allows you to get the Playing, Listening, and Streaming Discord Statuses 24/7!**
 
 
 ### ⚠️ Please Read Before Using it
