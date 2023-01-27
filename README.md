@@ -3,7 +3,7 @@ A code that allows you to get the Playing, Listening, and Streaming Discord Stat
 
 
 ### ⚠️ Please Read Before Using it
-> Once again, using Selfbot violates Discord Tos, your account is prone to being banned by Discord,If that happens we are not responsible as a developer, because it's at your own risk.
+> Once again, using Selfbot violates [Discord Tos](https://discord.com/terms), your account is prone to being banned by Discord,If that happens we are not responsible as a developer, because it's at your own risk.
 
 ### ✅ Do Not Give Your Token To Others!
 > Giving your token to someone else will give them the ability to log into your account without the password or 2FA.
@@ -16,4 +16,4 @@ A code that allows you to get the Playing, Listening, and Streaming Discord Stat
 
 ----
 
-> activityCord By Rin4Ever is licensed under Attribution 4.0 International 
+> [ActivityCord](https://github.com/rinxyzz/ActivityCord) By [Rin4Ever](https://rin4ever.xyz) is licensed under **Attribution 4.0 International** 
