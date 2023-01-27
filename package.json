@@ -1,5 +1,5 @@
 {
-  "name": "Statuscord",
+  "name": "Activitycord",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -97,6 +97,6 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "SealedSaucer",
+  "author": "Rin4Ever",
   "license": "ISC"
 }
