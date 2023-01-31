@@ -7,6 +7,9 @@
 
 **A Code That Allows You To Get The Playing, Listening, and Streaming Discord Statuses 24/7!**
 
+### 🔧 Installation
+*Soon*
+
 
 ### ⚠️ Please Read Before Using it
 > Once again, using Selfbot violates [Discord Tos](https://discord.com/terms), your account is prone to being banned by Discord,If that happens we are not responsible as a developer, because it's at your own risk.
