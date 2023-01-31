@@ -25,6 +25,6 @@ if (status == 1) {
   console.clear();
   import('./statuses/streaming.js');
 } else {
-  console.log("[" + chalk.red.bold("-") + "] Invalid option.");
+  console.log("[" + chalk.red.bold("-") + "] Invalid option, Select Options First!");
   process.exit();
 }
