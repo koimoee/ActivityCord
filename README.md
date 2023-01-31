@@ -1,4 +1,6 @@
 # ActivityCord
+<img alt="GitHub Workflow Status (with branch)" src="https://img.shields.io/github/actions/workflow/status/rinxyzz/ActivityCord/codeql.yml?branch=main&style=for-the-badge">
+
 **A code that allows you to get the Playing, Listening, and Streaming Discord Statuses 24/7!**
 
 
