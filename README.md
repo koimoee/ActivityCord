@@ -19,4 +19,4 @@
 
 ----
 
-> [ActivityCord](https://github.com/rinxyzz/ActivityCord) By [Rin4Ever](https://rin4ever.xyz) is licensed under **Attribution 4.0 International** 
+> [ActivityCord](https://github.com/rinxyzz/ActivityCord) By [Rin4Ever](https://rin4ever.xyz) is licensed under <img alt="GitHub" src="https://img.shields.io/github/license/rinxyzz/ActivityCord">
