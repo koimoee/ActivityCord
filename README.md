@@ -5,7 +5,7 @@
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rinxyzz/ActivityCord?style=social">
 <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/rinxyzz/ActivityCord?style=social">
 
-**A code that allows you to get the Playing, Listening, and Streaming Discord Statuses 24/7!**
+**A Code That Allows You To Get The Playing, Listening, and Streaming Discord Statuses 24/7!**
 
 
 ### ⚠️ Please Read Before Using it
