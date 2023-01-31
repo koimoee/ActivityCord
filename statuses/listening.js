@@ -6,7 +6,7 @@ let rpcGenerator = require("discordrpcgenerator");
 const client = new Client();
 
 let CLIENT_ID = "The bot's client id"
-let IMAGE = "The name of the image"
+let IMAGE = "The key/name of the image"
 let SONG = "The name of the song"
 let ARTIST = "The artist of the song"
 
