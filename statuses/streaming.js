@@ -6,10 +6,10 @@ const TOKEN = (process.env.TOKEN);
 let client = new discord.Client()
 
 CLIENT_ID = "The bot's client id"
-IMAGE_NAME = "The name of the image"
+IMAGE_NAME = "The name/key of the image"
 LARGE_TEXT = "Large text on the status"
 SMALL_TEXT = "Small text on the status"
-LINK = "A twitch link (Example: https://twitch.tv/SealedSaucer)"
+LINK = "A twitch link (Example: https://twitch.tv/rinzxxdc)"
  
 client.on("ready", () => {
     rpcGenerator.getRpcImage(CLIENT_ID, IMAGE_NAME)
