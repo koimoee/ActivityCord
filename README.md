@@ -14,7 +14,7 @@
 - Download Code From [Releases](https://github.com/rinxyzz/ActivityCord/releases)
 - Unzip The Files & Upload To [Replit](https://replit.com)
 - Customized The Files
-- Create "TOKEN" In Secret Variable & Put Your Discord Token
+- Create "TOKEN" In Secret Variable & Put Your Discord Token In The Values
 - Run The Project
 
 ### ✅ Do Not Give Your Token To Others!
