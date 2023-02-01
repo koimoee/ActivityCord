@@ -11,7 +11,11 @@
 > Once again, using Selfbot violates [Discord Tos](https://discord.com/terms), your account is prone to being banned by Discord,If that happens we are not responsible as a developer, because it's at your own risk.
 
 ### 🔧 Installation
-*Soon*
+- Download Code From [Releases](https://github.com/rinxyzz/ActivityCord/releases)
+- Unzip The Files & Upload To [Replit](https://replit.com)
+- Customized The Files
+- Create "TOKEN" In Secret Variable & Put Your Token
+- Run The Project
 
 ### ✅ Do Not Give Your Token To Others!
 > Giving your token to someone else will give them the ability to log into your account without the password or 2FA.
