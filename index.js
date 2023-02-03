@@ -11,7 +11,7 @@ server.all("/", (req, res) => {
 server.listen(3000);
 console.log(("\n[" + chalk.green.bold("+") + "]") + " The webserver is ready.");
 
-console.log("\n[" + chalk.yellow.bold("!") + "] Which presence would you like to start?\n\n[1] Playing Status \n[2] Listening Status\n[3] Streaming Status\n\n");
+console.log("\n[" + chalk.yellow.bold("!") + "] Which presence would you like to start?\n\n[1] Playing Status \n[2] Listening Status\n[3] Streaming Status\n[4] Custom Status\n\n");
 
 status = prompt("> ");
 
@@ -24,6 +24,9 @@ if (status == 1) {
 } else if (status == 3) {
   console.clear();
   import('./statuses/streaming.js');
+} else if (status == 4) {
+  console.clear();
+  import('./statuses/custom.js');
 } else {
   console.log("[" + chalk.red.bold("-") + "] Invalid option, Select Options First!");
   process.exit();
