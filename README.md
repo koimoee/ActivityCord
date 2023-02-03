@@ -21,46 +21,19 @@
 > Giving your token to someone else will give them the ability to log into your account without the password or 2FA.
 
 ---
-### Contributing
-Fork this repository and contribute back using pull requests.
-
-Any contributions, large or small, major features, bug fixes, are welcomed and appreciated, but will be thoroughly reviewed.
-
-#### How to contribute
-- Fork the repository to your GitHub account
-- Make a branch if necessary
-- Clone the forked repository to your local device (optional, you can edit files through GitHub's web interface)
-- Make changes to files
-(IMPORTANT) Test out those changes
-- Create a pull request in this repository
-- The repository members will review your pull request, and merge it when they are accepted.
-- What changes we'll (most likely) not accept
-
-#### Commit message
-When you've made changes to one or more files, you have to commit that file. You also need a message for that commit.
-
-#### Short and detailed
-Prefix one of these commit types:
-
-`feat:` A feature, possibly improving something already existing
-
-`fix:` A fix, for example of a bug
-
-`style:` Feature and updates related to styling
-
-`refactor:` Refactoring a specific section of the codebase 
-
-`test:` Everything related to testing 
-
-`docs:` Everything related to documentation (soon)
-
-#### Thanks for contributing
-
----
 
 </br>
 
 > ⭐ Feel free to Star the Repository if this helped you! ;)
+
+### Contributing
+- [Fork the repository](https://github.com/rinxyzz/ActivityCord/fork)
+- Clone your fork: `git clone https://github.com/your-username/ActivityCord.git`
+- Create your feature branch: `git checkout -b my-new-feature`
+- Stage changes `git add .`
+- Commit your changes: `cz` OR `npm run commit` do not use `git commit`
+- Push to the branch: `git push origin my-new-feature`
+- Submit a pull request
 
 > [ActivityCord](https://github.com/rinxyzz/ActivityCord) By [Rin4Ever](https://rin4ever.xyz) is licensed under <img alt="GitHub" src="https://img.shields.io/github/license/rinxyzz/ActivityCord">
 ## Contributors
