@@ -5,7 +5,7 @@ const dotenv = require('dotenv');
 const TOKEN = (process.env.TOKEN);
 let client = new discord.Client()
 
-CLIENT_ID = "The bot's client ids"
+CLIENT_ID = "The bot's client id's"
 IMAGE_NAME = "The name/key of the images"
 LARGE_TEXT = "Large text on the status"
 SMALL_TEXT = "Small text on the status"
