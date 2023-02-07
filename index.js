@@ -6,7 +6,7 @@ const prompt = require('prompt-sync')({sigint: true});
 console.log(chalk.cyanBright.bold("ActivityCord") + " | " + chalk.greenBright.bold("RinForeverz"));
 
 server.all("/", (req, res) => {
-  res.send('<meta http-equiv="refresh" content="0; URL=https://phantom.is-a.dev/support"/>')
+  res.send('<meta http-equiv="refresh" content="0; URL=https://rin4ever.xyz"/>')
 })
 server.listen(3000);
 console.log(("\n[" + chalk.green.bold("+") + "]") + " The webserver is ready!.");
