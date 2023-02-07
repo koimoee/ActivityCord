@@ -9,7 +9,7 @@ server.all("/", (req, res) => {
   res.send('<meta http-equiv="refresh" content="0; URL=https://phantom.is-a.dev/support"/>')
 })
 server.listen(3000);
-console.log(("\n[" + chalk.green.bold("+") + "]") + " The webserver is ready.");
+console.log(("\n[" + chalk.green.bold("+") + "]") + " The webserver is ready!.");
 
 console.log("\n[" + chalk.yellow.bold("!") + "] Which presence would you like to start?\n\n[1] Playing Status \n[2] Listening Status\n[3] Streaming Status\n\n");
 
