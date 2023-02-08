@@ -40,7 +40,7 @@ A Code That Allows You To Get The Playing, Listening, and Streaming Discord Stat
 > [ActivityCord](https://github.com/rinxyzz/ActivityCord) By [Rin4Everz](https://rin4ever.xyz) is licensed under
 > <img alt="GitHub" src="https://img.shields.io/github/license/rinxyzz/ActivityCord">
 
-> Build Using TildeC <img src="https://raw.githubusercontent.com/rinxyzz/ActivityCord/main/icons/tildecv2.png" width="20" height="20" align="center">
+> <font color="red">Build Using TildeC</font> <img src="https://raw.githubusercontent.com/rinxyzz/ActivityCord/main/icons/tildecv2.png" width="20" height="20" align="center">
 
 ## Contributors
 <a href="https://github.com/rinxyzz/ActivityCord/graphs/contributors">
