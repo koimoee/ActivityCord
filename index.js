@@ -3,7 +3,7 @@ const chalk = require("chalk");
 const server = express();
 const prompt = require('prompt-sync')({sigint: true});
 
-console.log(chalk.cyanBright.bold("ActivityCord") + " | " + chalk.greenBright.bold("RinForeverz"));
+console.log(chalk.cyanBright.bold("ActivityCord") + " | " + chalk.greenBright.bold("RinForeverz - Rin4Ever.xyz"));
 
 server.all("/", (req, res) => {
   res.send('<meta http-equiv="refresh" content="0; URL=https://rin4ever.xyz"/>')
