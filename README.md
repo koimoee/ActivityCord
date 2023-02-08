@@ -15,7 +15,7 @@
 - Unzip The Files & Upload To [Replit](https://replit.com)
 - Customized The Files
 - Create "TOKEN" In Secret Variable & Put Your Discord Token In The Values
-- Run The Project
+- Run The Projects
 
 ### ✅ Do Not Give Your Token To Others!
 > Giving your token to someone else will give them the ability to log into your account without the password or 2FA.
@@ -35,8 +35,9 @@
 - Push to the branch: `git push origin my-new-feature`
 - Submit a pull request
 
-> [ActivityCord](https://github.com/rinxyzz/ActivityCord) By [Rin4Ever](https://rin4ever.xyz) is licensed under
-<img alt="GitHub" src="https://img.shields.io/github/license/rinxyzz/ActivityCord">
+> [ActivityCord](https://github.com/rinxyzz/ActivityCord) By [Rin4Everz](https://rin4ever.xyz) is licensed under
+> <img alt="GitHub" src="https://img.shields.io/github/license/rinxyzz/ActivityCord">
+
 ## Contributors
 <a href="https://github.com/rinxyzz/ActivityCord/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=rinxyzz/ActivityCord" />
