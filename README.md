@@ -26,8 +26,6 @@ A Code That Allows You To Get The Playing, Listening, and Streaming Discord Stat
 
 </br>
 
-> ⭐ Feel free to Star the Repository if this helped you! ;)
-
 ### Contributing
 - [Fork the repository](https://github.com/rinxyzz/ActivityCord/fork)
 - Clone your fork: `git clone https://github.com/your-username/ActivityCord.git`
@@ -36,6 +34,7 @@ A Code That Allows You To Get The Playing, Listening, and Streaming Discord Stat
 - Commit your changes: `cz` OR `npm run commit` do not use `git commit`
 - Push to the branch: `git push origin my-new-feature`
 - Submit a pull request
+> ⭐ **Feel free to Star the Repository if this helped you! ;)**
 
 > [ActivityCord](https://github.com/rinxyzz/ActivityCord) By [Rin4Everz](https://rin4ever.xyz) is licensed under
 > <img alt="GitHub" src="https://img.shields.io/github/license/rinxyzz/ActivityCord">
