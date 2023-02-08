@@ -35,7 +35,8 @@
 - Push to the branch: `git push origin my-new-feature`
 - Submit a pull request
 
-> [ActivityCord](https://github.com/rinxyzz/ActivityCord) By [Rin4Ever](https://rin4ever.xyz) is licensed under <img alt="GitHub" src="https://img.shields.io/github/license/rinxyzz/ActivityCord">
+> [ActivityCord](https://github.com/rinxyzz/ActivityCord) By [Rin4Ever](https://rin4ever.xyz) is licensed under
+<img alt="GitHub" src="https://img.shields.io/github/license/rinxyzz/ActivityCord">
 ## Contributors
 <a href="https://github.com/rinxyzz/ActivityCord/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=rinxyzz/ActivityCord" />
