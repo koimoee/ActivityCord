@@ -24,8 +24,6 @@ A Code That Allows You To Get The Playing, Listening, and Streaming Discord Stat
 
 ---
 
-</br>
-
 ### Contributing
 - [Fork the repository](https://github.com/rinxyzz/ActivityCord/fork)
 - Clone your fork: `git clone https://github.com/your-username/ActivityCord.git`
