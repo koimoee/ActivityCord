@@ -20,7 +20,7 @@ client.on("ready", () => {
     .setState(ARTIST)
     client.user.setPresence(presence.toDiscord())
     }).catch(console.error)
-  console.log(("[" + chalk.greenBright.bold("LISTENING") + "]") + ` Successfully logged in as ${client.user.username} (${client.user.id})!`);
+  console.log(("[" + chalk.greenBright.bold("LISTENING") + "]") + ` Successfully logged in as ${client.user.username} (${client.user.id}) on Discord!`);
 })
 
 client.login(TOKEN);
