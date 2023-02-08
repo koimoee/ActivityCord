@@ -1,11 +1,15 @@
-# ActivityCord
+<p align="center">
+ActivityCord
+</p>
 <p align="center">
 <img alt="GitHub Workflow Status (with branch)" src="https://img.shields.io/github/actions/workflow/status/rinxyzz/ActivityCord/codeql.yml?branch=main&style=for-the-badge">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/rinxyzz/ActivityCord?style=for-the-badge">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/rinxyzz/ActivityCord?style=for-the-badge">
 </p>
 
-**A Code That Allows You To Get The Playing, Listening, and Streaming Discord Statuses 24/7!**
+<p align="center">
+A Code That Allows You To Get The Playing, Listening, and Streaming Discord Statuses 24/7!
+</p>
 
 > :warning: **Please Read Before Using it:** Once again, using Selfbot violates [Discord Tos](https://discord.com/terms), your account is prone to being banned by Discord,If that happens we are not responsible as a developer, because it's at your own risk.
 
