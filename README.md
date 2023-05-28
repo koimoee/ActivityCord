@@ -15,7 +15,7 @@ A Code That Allows You To Get The Playing, Listening, and Streaming Discord Stat
 > :memo: **Installation**
 > - Download Code From [Releases](https://github.com/rinxyzz/ActivityCord/releases)
 > - Unzip The Files & Upload To [Replit](https://replit.com)
-> - Customized The Files
+> - Customized The Files You Want (in folder statuses)
 > - Create "TOKEN" In Secret Variable & Put Your Discord Token In The Values
 > - Run The Projects
 
