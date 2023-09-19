@@ -1,26 +1,34 @@
-const dotenv = require('dotenv');
+const dotenv = require("dotenv");
 const chalk = require("chalk");
-const TOKEN = (process.env.TOKEN);
-const { Client } = require('discord.js-selfbot-v11');
+const TOKEN = process.env.TOKEN;
+const { Client } = require("discord.js-selfbot-v11");
 let rpcGenerator = require("discordrpcgenerator");
 const client = new Client();
 
-let CLIENT_ID = "The bot's client id (get from discord developer portal)"
-let IMAGE = "The key/name of the images"
-let SONG = "The name of the song"
-let ARTIST = "The artist of the song"
+let CLIENT_ID = "The bot's client id (get from discord developer portal)";
+let IMAGE = "The key/name of the images";
+let SONG = "The name of the song";
+let ARTIST = "The artist of the song";
 
 client.on("ready", () => {
-    rpcGenerator.getRpcImage(CLIENT_ID, IMAGE)
-    .then(image => {
-    let presence = rpcGenerator.createSpotifyRpc(client)
-    .setApplicationId(CLIENT_ID)
-    .setAssetsLargeImage(image.id)
-    .setDetails(SONG)
-    .setState(ARTIST)
-    client.user.setPresence(presence.toDiscord())
-    }).catch(console.error)
-  console.log(("[" + chalk.greenBright.bold("LISTENING") + "]") + ` Successfully logged in as ${client.user.username} (${client.user.id}) on Discord!`);
-})
+  rpcGenerator
+    .getRpcImage(CLIENT_ID, IMAGE)
+    .then((image) => {
+      let presence = rpcGenerator
+        .createSpotifyRpc(client)
+        .setApplicationId(CLIENT_ID)
+        .setAssetsLargeImage(image.id)
+        .setDetails(SONG)
+        .setState(ARTIST);
+      client.user.setPresence(presence.toDiscord());
+    })
+    .catch(console.error);
+  console.log(
+    "[" +
+      chalk.greenBright.bold("LISTENING") +
+      "]" +
+      ` Successfully logged in as ${client.user.username} (${client.user.id}) on Discord!`
+  );
+});
 
 client.login(TOKEN);
