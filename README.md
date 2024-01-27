@@ -10,9 +10,9 @@ A Code That Allows You To Get The Playing, Listening, and Streaming Discord Stat
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/Shiioriii/ActivityCord?style=for-the-badge">
 </p>
 
-> :warning: **Please Read Before Using it:** Once again, using Selfbot violates [Discord Tos](https://discord.com/terms), your account is prone to being banned by Discord,If that happens we are not responsible as a developer, because it's at your own risk.
+> ⚠️ **Please Read Before Using it:** Once again, using Selfbot violates [Discord Tos](https://discord.com/terms), your account is prone to being banned by Discord,If that happens we are not responsible as a developer, because it's at your own risk.
 
-> :memo: **Installation**
+> 🔧 **Installation**
 >
 > - Download Code From [Releases](https://github.com/Shiioriii/ActivityCord/releases)
 > - Unzip The Files & Upload To [Replit](https://replit.com)
@@ -27,7 +27,7 @@ A Code That Allows You To Get The Playing, Listening, and Streaming Discord Stat
 ### Contributing
 
 - [Fork the repository](https://github.com/Shiioriii/ActivityCord/fork)
-- Clone your fork: `git clone https://github.com/Shiioriii/ActivityCord.git`
+- Clone your fork: `git clone https://github.com/your-username/ActivityCord.git`
 - Create your feature branch: `git checkout -b my-new-feature`
 - Stage changes `git add .`
 - Commit your changes: `cz` OR `npm run commit` do not use `git commit`
@@ -35,13 +35,13 @@ A Code That Allows You To Get The Playing, Listening, and Streaming Discord Stat
 - Submit a pull request
   > ⭐ **Feel free to Star the Repository if this helped you! ;)**
 
-> [ActivityCord](https://github.com/Shiioriii/ActivityCord) By [Shiorii\_](https://fypmoon.org) is licensed under
+> [ActivityCord](https://github.com/Shiioriii/ActivityCord) By [Shiorii](https://fypmoon.org) is licensed under
 > <img alt="GitHub" src="https://img.shields.io/github/license/Shiioriii/ActivityCord">
 
 > <font color="red">Build Using TildeC</font> <img src="https://raw.githubusercontent.com/rinxyzz/ActivityCord/main/icons/tildecv2.png" width="20" height="20" align="center">
 
 ## Contributors
 
-<a href="https://github.com/rinxyzz/Shiioriii/graphs/contributors">
+<a href="https://github.com/Shiioriii/ActivityCord/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Shiioriii/ActivityCord" />
 </a>
