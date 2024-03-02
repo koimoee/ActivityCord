@@ -1,6 +1,6 @@
-<p align="center">
+<h2 align="center">
 ActivityCord
-</p>
+</h2>
 <p align="center">
 A Code That Allows You To Get The Playing, Listening, and Streaming Discord Statuses 24/7!
 </p>
