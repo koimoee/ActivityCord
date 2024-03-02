@@ -12,7 +12,7 @@ A Code That Allows You To Get The Playing, Listening, and Streaming Discord Stat
 
 <div align="center">
   <h4>⚠️ Please Read Before Using it</h4>
-  <p>Once again, using Selfbot violates <a href="https://discord.com/terms">Discord Tos</a>, your account is prone to being banned by Discord. <br> If that happens, we are not responsible as a developer because it's at your own risk.</p>
+  <p>Once again, using Selfbot violates <a href="https://discord.com/terms">Discord Tos</a>, your account is prone to being banned by Discord. <br> If that happens, me are not responsible as a developer because it's at your own risk.</p>
 </div>
 
 
