@@ -5,9 +5,9 @@ ActivityCord
 A Code That Allows You To Get The Playing, Listening, and Streaming Discord Statuses 24/7!
 </p>
 <p align="center">
-<img alt="GitHub Workflow Status (with branch)" src="https://img.shields.io/github/actions/workflow/status/Shiioriii/ActivityCord/codeql.yml?branch=main&style=for-the-badge">
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Shiioriii/ActivityCord?style=for-the-badge">
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/Shiioriii/ActivityCord?style=for-the-badge">
+<img alt="GitHub Workflow Status (with branch)" src="https://img.shields.io/github/actions/workflow/status/oneofremii/ActivityCord/codeql.yml?branch=main&style=for-the-badge">
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/oneofremii/ActivityCord?style=for-the-badge">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/oneofremii/ActivityCord?style=for-the-badge">
 </p>
 
 <div align="center">
