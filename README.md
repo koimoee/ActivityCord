@@ -38,10 +38,9 @@ A Code That Allows You To Get The Playing, Listening, and Streaming Discord Stat
 - Submit a pull request
  ⭐ **Feel free to Star the Repository if this helped you! ;)**
 
-> [ActivityCord](https://github.com/oneofremii/ActivityCord) By [Remii](https://fypmoon.org) is licensed under
-> <img alt="GitHub" src="https://img.shields.io/github/license/oneofremii/ActivityCord">
+[ActivityCord](https://github.com/oneofremii/ActivityCord) By [Remii](https://fypmoon.org) is licensed under <img alt="GitHub" src="https://img.shields.io/github/license/oneofremii/ActivityCord">
 
-> <font color="red">Build Using TildeC</font> <img src="https://raw.githubusercontent.com/rinxyzz/ActivityCord/main/icons/tildecv2.png" width="20" height="20" align="center">
+<font color="red">Build Using TildeC</font> <img src="https://raw.githubusercontent.com/rinxyzz/ActivityCord/main/icons/tildecv2.png" width="20" height="20" align="center">
 
 ## Contributors
 
