@@ -18,7 +18,7 @@ A Code That Allows You To Get The Playing, Listening, and Streaming Discord Stat
 
 ### 🔧 Installation
 
- [![Run on Replit](https://replit.com/badge/github/oneofremii/ActivityCord)](https://replit.com/github/oneofremii/ActivityCord)
+ [![Run on Replit](https://replit.com/badge/github/xbzyaw/ActivityCord)](https://replit.com/github/xbzyaw/ActivityCord)
  - Customized The Files You Want (in folder statuses)
  - Create "TOKEN" In Secret Variable & Put Your Discord Token In The Values
  - Run The Projects
